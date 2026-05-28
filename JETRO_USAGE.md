@@ -25,14 +25,7 @@ The resulting app is in [`berrywise/`](berrywise/). It is a Next.js application 
 
 ## Canvas Notes
 
-The Jetro canvas workflow was explored during development. For this project, the primary deliverable became a standalone Next.js app rather than a canvas-native dashboard. The canvas still helped with product thinking and planning, but the interactive user experience now lives in the web app.
-
-For future iterations, Jetro would be a strong fit for:
-
-- A live portfolio monitoring canvas.
-- Multi-panel C2 dashboards with separate uploader, risk panel, AI assistant, and chart frames.
-- Research notes connected to portfolio snapshots.
-- Living Document Format reports for sharing portfolio reviews.
+I explored the canvas workflow, but it was limited during my session, likely because the project was built as a Next.js app.
 
 ## Security And Local Files
 
