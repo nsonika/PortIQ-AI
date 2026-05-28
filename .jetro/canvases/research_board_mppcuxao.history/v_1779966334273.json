@@ -1,0 +1,28 @@
+{
+  "name": "Research Board",
+  "elements": [
+    {
+      "id": "mcp-1779966333103-1",
+      "type": "embed",
+      "position": {
+        "x": 400,
+        "y": 40
+      },
+      "size": {
+        "width": 1200,
+        "height": 350
+      },
+      "data": {
+        "title": "Berrywise Portfolio IQ",
+        "url": "http://localhost:3000"
+      },
+      "connections": []
+    }
+  ],
+  "edges": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  }
+}

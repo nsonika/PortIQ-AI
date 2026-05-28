@@ -1,0 +1,20 @@
+[
+  {
+    "id": "research_board_mppcuxao",
+    "name": "Research Board",
+    "projectSlug": null,
+    "createdAt": "2026-05-28T10:33:41.136Z"
+  },
+  {
+    "id": "portiq_ai_portfolio_intelligence_dashboard_mppcxaob",
+    "name": "PortIQ AI — Portfolio Intelligence Dashboard",
+    "projectSlug": null,
+    "createdAt": "2026-05-28T10:35:31.787Z"
+  },
+  {
+    "id": "canvas_1_mppddv7a",
+    "name": "Canvas 1",
+    "projectSlug": "portiq_ai",
+    "createdAt": "2026-05-28T10:48:24.886Z"
+  }
+]
